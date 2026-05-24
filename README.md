@@ -14,13 +14,9 @@ Hoje direciono minha carreira para tecnologia, unindo soft skills sólidas com a
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## ⚙️ Hard Skills
 
-<div align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,git,github,vscode" />
-
-</div>
+☁️ AWS Cloud • 🐳 Docker • 🤖 IA Generativa • ⚡ NoCode • 🔗 Git/GitHub • 💻 Web Development
 
 ---
 
