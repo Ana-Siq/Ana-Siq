@@ -29,17 +29,6 @@ Hoje direciono minha carreira para tecnologia, unindo soft skills sólidas com a
 - Inteligência Artificial
 - Experiência do Cliente (CX/CS)
 
----
-
-## 📊 Estatísticas GitHub
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=transparent&hide_border=true" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=transparent&hide_border=true" />
-
-</div>
 
 ---
 
