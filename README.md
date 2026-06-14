@@ -42,5 +42,5 @@ Hoje direciono minha carreira para tecnologia, unindo soft skills sólidas com a
 
 ## 💡 Frase que me define
 
-> “Tecnologia, aprendizado contínuo e pessoas: construindo soluções com propósito.”
+> “Vejo cada desafio como uma oportunidade de construir algo novo.”
 
